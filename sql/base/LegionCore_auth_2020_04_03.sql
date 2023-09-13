@@ -1,5 +1,5 @@
 /*
-SQLyog Community v13.1.5  (64 bit)
+SQLyog Community v13.1.55  (64 bit)
 MySQL - 5.6.47 : Database - auth
 *********************************************************************
 */
