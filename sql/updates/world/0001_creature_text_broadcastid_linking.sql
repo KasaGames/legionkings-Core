@@ -22,6 +22,7 @@ UPDATE creature_text SET broadcasttextid = 37164 WHERE broadcasttextid = 0 AND s
 UPDATE creature_text SET broadcasttextid = 37165 WHERE broadcasttextid = 0 AND sound = 16827;
 UPDATE creature_text SET broadcasttextid = 37477 WHERE broadcasttextid = 0 AND sound = 16697;
 UPDATE creature_text SET broadcasttextid = 37511 WHERE broadcasttextid = 0 AND sound = 17007;
+
 UPDATE creature_text SET broadcasttextid = 37568 WHERE broadcasttextid = 0 AND sound = 17049;
 UPDATE creature_text SET broadcasttextid = 37571 WHERE broadcasttextid = 0 AND sound = 17052;
 UPDATE creature_text SET broadcasttextid = 37572 WHERE broadcasttextid = 0 AND sound = 17053;
